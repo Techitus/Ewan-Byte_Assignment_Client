@@ -27,3 +27,4 @@ A simple Notes CRUD (Create, Read, Update, Delete) application built with **Next
 
 1.To run : npm run dev 
 
+Note : To see snapshots of the project kindly visit screenshots folder of this repo.
